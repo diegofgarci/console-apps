@@ -1,0 +1,11 @@
+X:\Documentos\NetProyectos\Repos\console-apps\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+X:\Documentos\NetProyectos\Repos\console-apps\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+X:\Documentos\NetProyectos\Repos\console-apps\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+X:\Documentos\NetProyectos\Repos\console-apps\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+X:\Documentos\NetProyectos\Repos\console-apps\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+X:\Documentos\NetProyectos\Repos\console-apps\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+X:\Documentos\NetProyectos\Repos\console-apps\Numbers\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache
+X:\Documentos\NetProyectos\Repos\console-apps\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+X:\Documentos\NetProyectos\Repos\console-apps\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+X:\Documentos\NetProyectos\Repos\console-apps\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+X:\Documentos\NetProyectos\Repos\console-apps\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
